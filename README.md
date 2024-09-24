@@ -1,2 +1,2 @@
 # test-301-tue
-Test repo for Tuesday lab
+This is a test repository for CMPUT 301 Tuesday Lab (Fall 2024)
